@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://diogo:diogo@devconnector-rjfjz.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
