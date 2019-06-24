@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://diogo:diogo@devconnector-rjfjz.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "33f866849683db5bd2dd",
+  "githubSecret": "18e157ad872c0edf9022c35f8b24935acea7af7e"
 }
